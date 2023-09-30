@@ -1,12 +1,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Abolfazl-Taj&show_icons=true&theme=dark" width="700" align="right">
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <img src="https://streak-stats.demolab.com?user=Abolfazl-Taj&theme=react&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=700%&ring=000000&border=EB0000&background=45%2C0092FF%2CEB0000&stroke=EBEBEB&fire=FF0000&currStreakNum=EBEBEB&sideNums=000000&currStreakLabel=000000&sideLabels=EBEBEB&dates=000000&excludeDaysLabel=000000" align="left">
 
 
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 
  <h1>You Can Find Me Here:</h1>
